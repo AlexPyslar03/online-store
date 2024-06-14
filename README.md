@@ -1,5 +1,7 @@
 # Online Store
 ## Pet проект - онлайн магазин
+
+## Основные моменты:
 - Данный проект написан на JavaScript с использованием [Node.js](https://nodejs.org)
 - Система авторизации происходит при помощи [JWT](https://jwt.io)
 - Стиль API - RestAPI
